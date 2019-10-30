@@ -9,5 +9,7 @@
 
 <p> hai this is prabhu my first devops project</p>
 
+<p> this is the test to verify the deploy job working correctly</p>
+
 </body>
 </html>
